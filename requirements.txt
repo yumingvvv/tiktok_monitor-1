@@ -1,0 +1,2 @@
+TikTokApi==4.0.4
+python-telegram-bot==12.2.0
